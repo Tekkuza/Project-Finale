@@ -1,12 +1,11 @@
-# Project-Finale
+# Stocker Prep
 Location for final project
 
-#Header
+## Description:
 
-Description:
+This tool uses the Financial Modeling Prep API to scrape and collect stock information. This requires the creation of an account, and use of an API token to collect data. 
 
-This tool uses the Financial Modeling Prep API to scrape and collect stock information. This requires the creation of an account, and use of an API token to collect data. Classes:
-
+### Classes:
 Stock scraper
     This class collects and requests data from the API. This is where you can select the type of information to scrape.
 
