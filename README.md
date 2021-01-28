@@ -1,9 +1,13 @@
 # Stocker Prep
-Location for final project
 
 ## Description:
 
 This tool uses the Financial Modeling Prep API to scrape and collect stock information. This requires the creation of an account, and use of an API token to collect data. 
+
+### Plans:
+- Resolve automation and csv storage of shortlisted companies.
+- Perform percentage calculations of stock change (Every 3-6 hours, +/-, e.g. Stock A -10.5%)
+  - Will implement write feature to store stock data for reference.
 
 ### Classes:
 1) Stock scraper:
